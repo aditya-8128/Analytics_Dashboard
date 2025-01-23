@@ -17,65 +17,60 @@ const FAQ = () => {
       <Accordion defaultExpanded>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
           <Typography color={colors.greenAccent[500]} variant="h5">
-            An Important Question
+          What is the purpose of a Lead Qualification Bot in WhatsApp automation?
           </Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          A Lead Qualification Bot identifies the nature of incoming leads and automatically assigns hot leads to the sales team.
           </Typography>
         </AccordionDetails>
       </Accordion>
       <Accordion defaultExpanded>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
           <Typography color={colors.greenAccent[500]} variant="h5">
-            Another Important Question
+          How can WhatsApp automation enhance customer journeys?
           </Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          WhatsApp automation helps streamline customer interactions by identifying incoming leads and assigning them to the appropriate teams for follow-up.
           </Typography>
         </AccordionDetails>
       </Accordion>
       <Accordion defaultExpanded>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
           <Typography color={colors.greenAccent[500]} variant="h5">
-            Your Favorite Question
+          What is Broadcast Automation, and how does it work?
           </Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          Broadcast Automation enables businesses to send messages to a large audience while simultaneously identifying and prioritizing hot leads for sales teams.
           </Typography>
         </AccordionDetails>
       </Accordion>
       <Accordion defaultExpanded>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
           <Typography color={colors.greenAccent[500]} variant="h5">
-            Some Random Question
+          What are drip campaigns, and how are they implemented through WhatsApp?
           </Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          Drip campaigns use WhatsApp automation to send a series of scheduled messages, helping to engage leads over time and pass qualified leads to the sales team.
           </Typography>
         </AccordionDetails>
       </Accordion>
       <Accordion defaultExpanded>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
           <Typography color={colors.greenAccent[500]} variant="h5">
-            The Final Question
+          How does WhatsApp automation handle renewal messages?
           </Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          Automated Renewal Messages use WhatsApp to remind customers of upcoming renewals while categorizing and forwarding potential hot leads to the sales team.
           </Typography>
         </AccordionDetails>
       </Accordion>
